@@ -1,0 +1,146 @@
+{
+  "main room": [
+    {
+      "id": "1-1",
+      "name": "52",
+      "shape": "square"
+    },
+    {
+      "id": "3-1",
+      "name": "53",
+      "shape": "square"
+    },
+    {
+      "id": "5-1",
+      "name": "57",
+      "shape": "square"
+    },
+    {
+      "id": "7-1",
+      "name": "46",
+      "shape": "square"
+    },
+    {
+      "id": "9-1",
+      "name": "47",
+      "shape": "circle"
+    },
+    {
+      "id": "1-3",
+      "name": "51",
+      "shape": "square"
+    },
+    {
+      "id": "3-3",
+      "name": "54",
+      "shape": "square"
+    },
+    {
+      "id": "5-3",
+      "name": "56",
+      "shape": "square"
+    },
+    {
+      "id": "7-3",
+      "name": "45",
+      "shape": "square"
+    },
+    {
+      "id": "4-4",
+      "name": "55",
+      "shape": "square"
+    },
+    {
+      "id": "9-4",
+      "name": "48",
+      "shape": "square"
+    },
+    {
+      "id": "7-5",
+      "name": "44",
+      "shape": "square"
+    },
+    {
+      "id": "7-7",
+      "name": "43",
+      "shape": "square"
+    },
+    {
+      "id": "9-7",
+      "name": "49",
+      "shape": "circle"
+    }
+  ],
+  "spare room": [
+    {
+      "id": "1-1",
+      "name": "52",
+      "shape": "circle"
+    },
+    {
+      "id": "3-1",
+      "name": "53",
+      "shape": "circle"
+    },
+    {
+      "id": "5-1",
+      "name": "57",
+      "shape": "square"
+    },
+    {
+      "id": "7-1",
+      "name": "46",
+      "shape": "square"
+    },
+    {
+      "id": "9-1",
+      "name": "47",
+      "shape": "circle"
+    },
+    {
+      "id": "1-3",
+      "name": "51",
+      "shape": "circle"
+    },
+    {
+      "id": "3-3",
+      "name": "54",
+      "shape": "circle"
+    },
+    {
+      "id": "5-3",
+      "name": "56",
+      "shape": "square"
+    },
+    {
+      "id": "7-3",
+      "name": "45",
+      "shape": "square"
+    },
+    {
+      "id": "4-4",
+      "name": "55",
+      "shape": "square"
+    },
+    {
+      "id": "9-4",
+      "name": "48",
+      "shape": "square"
+    },
+    {
+      "id": "7-5",
+      "name": "44",
+      "shape": "square"
+    },
+    {
+      "id": "7-7",
+      "name": "43",
+      "shape": "square"
+    },
+    {
+      "id": "9-7",
+      "name": "49",
+      "shape": "circle"
+    }
+  ]
+}
